@@ -1,6 +1,5 @@
 <H1>Hello, I am Jack 👋🏼 </h1> 
 <p></p>Thank you for visiting!</p>
-<hr/>
 <p>I am the Managing Director and co-founder of <a href="www.booksandpeople.com.sg">Books & People</a>.
  – a bootstrapped startup that deals with book publishing and edtech.</p>
 <p>For a good decade, I have been working on alleviating inequality and uplifting the less privileged through edtech.</p>
