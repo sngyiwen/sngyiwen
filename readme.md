@@ -3,7 +3,8 @@
 <p>I am the Managing Director and co-founder of <a href="www.booksandpeople.com.sg">Books & People</a>
  – a bootstrapped startup that deals with book publishing 📒 and edtech 📱. For a good decade, I have been working on alleviating educational inequality and uplifting the less privileged through edtech.</p>
  <ul>
-  <li>⁴² I'm currently a <strong>cadet</strong> at <img alt="Static Badge" src="https://img.shields.io/badge/Singapore_SUTD-black?logo=42&logoColor=white">
+  <li>⁴² I'm currently a <strong>cadet</strong> at <img alt="Static Badge" src="https://img.shields.io/badge/Singapore%20_-SUTD-gray?logo=42&logoColor=white&labelColor=black">
+
 </li>
   <li>✉️ You can reach me via <a href = "mailto: jack.sng@booksandpeople.com.sg">email</a></li>
   <li>🤓 I'm a self-directed learner and I enjoy reading</li>
