@@ -3,12 +3,13 @@
 <p>I am the Managing Director and co-founder of <a href="www.booksandpeople.com.sg">Books & People</a>
  – a bootstrapped startup that deals with book publishing 📒 and edtech 📱. For a good decade, I have been working on alleviating educational inequality and uplifting the less privileged through edtech.</p>
  <ul>
-  <li>⁴² I'm currently a cadet at 42 Singapore SUTD</li>
+  <li>⁴² I'm currently a <strong>cadet</strong> at <img alt="Static Badge" src="https://img.shields.io/badge/Singapore_SUTD-black?logo=42&logoColor=white">
+</li>
   <li>✉️ You can reach me via <a href = "mailto: jack.sng@booksandpeople.com.sg">email</a></li>
   <li>🤓 I'm a self-directed learner and I enjoy reading</li>
-  <li>🎓 Trained in Mass Communication student</li>
-  <li>✏️ familiar with marketing and graphic design with adobe creative suite.</li>
-  <li>📖 experienced private teacher (Primary - Secondary level English and Mathematics)</li>
+  <li>🎓 Trained Mass Communication student</li>
+  <li>✏️ Familiar with marketing and graphic design with Adobe Creative Suite.</li>
+  <li>📖 Experienced private teacher (Primary - Secondary level English and Mathematics)</li>
   <li>🌎 Bilingual in Chinese and English (spoken and written)</li>
 </ul>
 <a href="https://www.linkedin.com/in/jack-sng/">
