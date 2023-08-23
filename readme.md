@@ -9,6 +9,8 @@
   <li>🎓 Trained in Mass Communication student</li>
   <li>✏️ familiar with marketing and graphic design with adobe creative suite.</li>
   <li>📖 experienced private teacher (Primary - Secondary level English and Mathematics)</li>
+  <li><p>🌎 Bilingual in Chinese and English (spoken and written) </p>
+</li>
 </ul>
 <a href="https://www.linkedin.com/in/jack-sng/">
 <p align="center" dir="auto">
