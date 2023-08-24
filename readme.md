@@ -8,7 +8,7 @@
 </li>
   <li>✉️ You can reach me via <a href = "mailto: jack.sng@booksandpeople.com.sg">email</a></li>
   <li>🤓 I'm a self-directed learner and I enjoy reading</li>
-  <li>🎓 Trained Mass Communication student</li>
+  <li>🎓 Trained in Mass Communication</li>
   <li>✏️ Familiar with marketing and graphic design with Adobe Creative Suite.</li>
   <li>📖 Experienced private teacher (Primary - Secondary level English and Mathematics)</li>
   <li>🌎 Bilingual in Chinese and English (spoken and written)</li>
